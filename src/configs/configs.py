@@ -248,4 +248,4 @@ class Configs:
 
 
 # Create Configs instance
-Configs = Configs()
+configs = Configs()
